@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Monster-Army/static/css/main.0fd8cc82.css",
+    "main.js": "/Monster-Army/static/js/main.fd1c4648.js",
+    "static/js/787.c27836d4.chunk.js": "/Monster-Army/static/js/787.c27836d4.chunk.js",
+    "index.html": "/Monster-Army/index.html",
+    "main.0fd8cc82.css.map": "/Monster-Army/static/css/main.0fd8cc82.css.map",
+    "main.fd1c4648.js.map": "/Monster-Army/static/js/main.fd1c4648.js.map",
+    "787.c27836d4.chunk.js.map": "/Monster-Army/static/js/787.c27836d4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fd8cc82.css",
+    "static/js/main.fd1c4648.js"
+  ]
+}
